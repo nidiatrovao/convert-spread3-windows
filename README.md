@@ -4,7 +4,7 @@ Based on the Unix [workaround](https://github.com/VirologyCharite/convert-spread
 
 ## Usage
 
-Add the `RUNConvertSpreaD3.cmd` and `ConvertSpreaD3.ps1` files to the `d3renderer` directory within your SpreaD3 output.
+Add both the `RUNConvertSpreaD3.cmd` and `ConvertSpreaD3.ps1` files to the `d3renderer` directory within your SpreaD3 output.
 
 Run the script by left-clicking on `RUNConvertSpreaD3.cmd`.
 You may need to give the necessary permission for the script to run sucessfully.
