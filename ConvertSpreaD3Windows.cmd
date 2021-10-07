@@ -1,0 +1,1 @@
+powershell.exe -noprofile -executionpolicy bypass -file .\ConvertSpreaD3Windows.ps1
