@@ -1,1 +1,1 @@
-powershell.exe -noprofile -executionpolicy bypass -file .\ConvertSpreaD3Windows.ps1
+powershell.exe -noprofile -executionpolicy bypass -file .\ConvertSpreaD3.ps1
