@@ -9,7 +9,7 @@ Add both the `RUNConvertSpreaD3.cmd` and `ConvertSpreaD3.ps1` files to the `d3re
 Run the script by double left-clicking on `RUNConvertSpreaD3.cmd`.
 You may need to give the necessary permission for the script to run successfully.
 
-The script will produce two new files, `index-new.html` and `main-new.js`. Open the former with your browser.
+The script will generate two new files, `index-new.html` and `main-new.js`. Open the former with your browser.
 The original broken files are removed during the script process.
 
 This is specific for the last version of SpreaD3 `v0.9.7.1rc`.
