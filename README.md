@@ -7,7 +7,7 @@ Based on the Unix [workaround](https://github.com/VirologyCharite/convert-spread
 Add both the `RUNConvertSpreaD3.cmd` and `ConvertSpreaD3.ps1` files to the `d3renderer` directory within your SpreaD3 output.
 
 Run the script by double left-clicking on `RUNConvertSpreaD3.cmd`.
-You may need to give the necessary permission for the script to run sucessfully.
+You may need to give the necessary permission for the script to run successfully.
 
 The script will produce two new files, `index-new.html` and `main-new.js`. Open the former with your browser.
 The original broken files are removed during the script process.
